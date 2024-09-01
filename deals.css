@@ -1,0 +1,230 @@
+.vector-icon5 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 137px;
+}
+.carts-icon5 {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  width: 72px;
+  height: 25px;
+}
+.iconsaxlinearcall6 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.carts-and-button6,
+.fill-button8 {
+  position: absolute;
+  top: 0;
+  height: 60px;
+}
+.fill-button8 {
+  left: 96px;
+  border-radius: var(--br-8xs);
+  background-color: var(--colors-green);
+  width: 180px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+}
+.carts-and-button6 {
+  right: 0;
+  width: 276px;
+}
+.home6 {
+  position: relative;
+  font-weight: 500;
+}
+.hovered-child4 {
+  width: 47px;
+  position: relative;
+  height: 5px;
+}
+.hovered6,
+.nav-menu6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  color: var(--color-palet-nav-menu-hover);
+}
+.nav-menu6 {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: calc(50% - 188px);
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-29xl);
+  font-size: var(--font-size-base);
+  color: var(--color-palet-paragraph-color);
+}
+.logo16 {
+  position: absolute;
+  top: 8px;
+  left: 59px;
+  width: 109.5px;
+  height: 70px;
+}
+.plant-1-icon10 {
+  width: 32px;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.ecobazar6 {
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 38px;
+  font-weight: 500;
+}
+.logo17 {
+  position: absolute;
+  top: -4px;
+  left: -35px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.agriconn4 {
+  width: 168px;
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 38px;
+  font-weight: 500;
+  display: none;
+}
+.logo18 {
+  position: absolute;
+  top: 4px;
+  left: -92px;
+  width: 302px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.container6 {
+  position: absolute;
+  width: calc(100% - 274px);
+  top: 41px;
+  right: 122px;
+  left: 152px;
+  height: 53px;
+}
+.navbar6,
+.top-header-child2 {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.navbar6 {
+  top: 36px;
+  height: 137px;
+  font-size: var(--m3-headline-large-size);
+}
+.top-header-child2 {
+  top: 0;
+  background-color: var(--color-whitesmoke-300);
+  height: 36px;
+}
+.iconsaxboldfacebook5 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.social5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.welcometo-agriconnect5 {
+  position: relative;
+}
+.left-contents5 {
+  position: absolute;
+  top: 10px;
+  left: 135px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.top-header5 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 4px;
+  left: -4px;
+  height: 36px;
+  font-size: var(--font-size-xs);
+  color: var(--color-palet-paragraph-color);
+}
+.blank-line1 {
+  margin: 0;
+}
+.thank-you1 {
+  margin: 0;
+  color: var(--color-darkslateblue);
+}
+.thank-you {
+  position: absolute;
+  top: 254px;
+  left: 511px;
+  display: inline-block;
+  width: 745px;
+  height: 240px;
+  color: var(--color-palet-nav-menu-hover);
+}
+.agrmmmarket-cleanup-1-icon4 {
+  position: absolute;
+  top: 66px;
+  left: 24px;
+  width: 79px;
+  height: 64px;
+  object-fit: cover;
+}
+.your-form-has {
+  position: absolute;
+  top: 494px;
+  left: 219px;
+  display: inline-block;
+  color: var(--color-darkslateblue);
+  width: 1279px;
+}
+.deals {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-lightgoldenrodyellow);
+  height: 919px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-45xl);
+  color: var(--gren-gray-scale-900);
+  font-family: var(--font-poppins);
+}

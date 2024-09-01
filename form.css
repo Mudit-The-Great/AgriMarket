@@ -1,0 +1,332 @@
+.vector-icon3 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 137px;
+}
+.carts-icon3 {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  width: 72px;
+  height: 25px;
+}
+.iconsaxlinearcall4 {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.carts-and-button4,
+.fill-button6 {
+  position: absolute;
+  top: 0;
+  height: 60px;
+}
+.fill-button6 {
+  left: 96px;
+  border-radius: var(--br-8xs);
+  background-color: var(--colors-green);
+  width: 180px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+}
+.carts-and-button4 {
+  right: 0;
+  width: 276px;
+}
+.home4 {
+  position: relative;
+  font-weight: 500;
+}
+.hovered-child2 {
+  width: 47px;
+  position: relative;
+  height: 5px;
+}
+.hovered4,
+.nav-menu4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  color: var(--color-palet-nav-menu-hover);
+}
+.nav-menu4 {
+  position: absolute;
+  top: calc(50% - 16px);
+  left: calc(50% - 188px);
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-29xl);
+  font-size: var(--font-size-base);
+  color: var(--color-palet-paragraph-color);
+}
+.logo10 {
+  position: absolute;
+  top: 8px;
+  left: 59px;
+  width: 109.5px;
+  height: 70px;
+}
+.plant-1-icon6 {
+  width: 32px;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.ecobazar4 {
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 38px;
+  font-weight: 500;
+}
+.logo11 {
+  position: absolute;
+  top: -4px;
+  left: -35px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.agriconn2 {
+  width: 168px;
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 38px;
+  font-weight: 500;
+  display: none;
+}
+.logo12 {
+  position: absolute;
+  top: 4px;
+  left: -92px;
+  width: 302px;
+  height: 38px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.container4 {
+  position: absolute;
+  width: calc(100% - 274px);
+  top: 41px;
+  right: 122px;
+  left: 152px;
+  height: 53px;
+}
+.navbar4,
+.rectangle-div {
+  position: absolute;
+  width: 100%;
+  right: 0;
+  left: 0;
+}
+.navbar4 {
+  top: 36px;
+  height: 137px;
+  color: var(--gren-gray-scale-900);
+  font-family: var(--font-poppins);
+}
+.rectangle-div {
+  top: 0;
+  background-color: var(--color-whitesmoke-300);
+  height: 36px;
+}
+.iconsaxboldfacebook3 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.social3 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xl);
+}
+.welcometo-agriconnect3 {
+  position: relative;
+}
+.left-contents3 {
+  position: absolute;
+  top: 10px;
+  left: 135px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.top-header3 {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 4px;
+  left: -4px;
+  height: 36px;
+  font-size: var(--font-size-xs);
+  color: var(--color-palet-paragraph-color);
+  font-family: var(--font-poppins);
+}
+.agrmmmarket-cleanup-1-icon2 {
+  position: absolute;
+  top: 66px;
+  left: 24px;
+  width: 79px;
+  height: 64px;
+  object-fit: cover;
+}
+.what-crop-do {
+  margin: 0;
+}
+.what-crop-do-container {
+  position: absolute;
+  top: 230px;
+  left: 64px;
+  line-height: 40px;
+  display: inline-block;
+  width: 547px;
+  height: 47px;
+}
+.formcontractbuyer-child {
+  border: 1px solid var(--color-black);
+  outline: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 277px;
+  left: 60px;
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 680px;
+  height: 48px;
+  overflow: hidden;
+}
+.what-is-the-container {
+  position: absolute;
+  top: 362px;
+  left: 64px;
+  line-height: 40px;
+  display: inline-block;
+  width: 713px;
+  height: 55px;
+}
+.formcontractbuyer-item {
+  border: 1px solid var(--color-black);
+  outline: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 417px;
+  left: 70px;
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 670px;
+  height: 43px;
+  overflow: hidden;
+}
+.what-is-the-container1 {
+  position: absolute;
+  top: 499px;
+  left: 64px;
+  line-height: 40px;
+  display: inline-block;
+  width: 713px;
+  height: 77px;
+}
+.formcontractbuyer-inner {
+  border: 1px solid var(--color-black);
+  outline: 0;
+  background-color: var(--color-whitesmoke-200);
+  position: absolute;
+  top: 576px;
+  left: 70px;
+  border-radius: var(--br-5xs);
+  box-sizing: border-box;
+  width: 687px;
+  height: 52px;
+  overflow: hidden;
+}
+.any-other-facilities {
+  position: absolute;
+  top: 651px;
+  left: 64px;
+  line-height: 40px;
+  display: inline-block;
+  width: 786px;
+  height: 50px;
+}
+.formcontractbuyer-child1 {
+  position: absolute;
+  top: 701px;
+  left: 70px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-whitesmoke-200);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 687px;
+  height: 54px;
+  overflow: hidden;
+}
+.rectangle-button {
+  cursor: pointer;
+  border: 3px solid var(--color-black);
+  padding: 0;
+  background-color: #1976d2;
+  position: absolute;
+  top: 796px;
+  left: 251px;
+  border-radius: var(--br-xs);
+  box-sizing: border-box;
+  width: 291px;
+  height: 104px;
+}
+.submit {
+  position: absolute;
+  top: 812px;
+  left: 315px;
+  font-size: var(--m3-display-large-size);
+  letter-spacing: -0.25px;
+  line-height: 64px;
+  color: var(--color-palet-pure-white);
+  display: inline-block;
+  width: 296px;
+  height: 100px;
+}
+.farm-image-2 {
+  position: absolute;
+  top: 207px;
+  left: 773px;
+  border-radius: var(--br-xs);
+  width: 608px;
+  height: 641px;
+  object-fit: cover;
+}
+.formcontractbuyer {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-lightgoldenrodyellow);
+  height: 919px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--m3-headline-large-size);
+  color: var(--color-black);
+  font-family: var(--m3-display-large);
+}

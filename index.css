@@ -1,0 +1,305 @@
+.main-slider-1-1-1-icon {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 744px;
+  object-fit: cover;
+}
+.agrimarket {
+  width: 547px;
+  position: relative;
+  line-height: 118.4%;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  height: 78px;
+  flex-shrink: 0;
+}
+.main-contents {
+  position: absolute;
+  width: calc(100% - 954px);
+  top: 91.6px;
+  right: 818px;
+  left: 136px;
+  height: 78px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-family: var(--font-dosis);
+}
+.section-one-child {
+  position: absolute;
+  top: 107.6px;
+  left: 590px;
+  width: 102.5px;
+  height: 94.5px;
+}
+.farmer {
+  width: 126px;
+  position: relative;
+  font-size: var(--font-size-base);
+  font-weight: 600;
+  font-family: var(--font-poppins);
+  color: var(--color-palet-pure-white);
+  text-align: left;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.fill-button,
+.fill-button-wrapper {
+  position: absolute;
+  width: 172px;
+  height: 56px;
+}
+.fill-button {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-8xs);
+  background-color: var(--colors-green);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+}
+.fill-button-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-palet-pure-white);
+  top: 508px;
+  left: 136px;
+  border-radius: var(--br-5xs);
+}
+.agrmmmarket-1-icon {
+  position: absolute;
+  top: -80px;
+  left: 32px;
+  width: 53px;
+  height: 57px;
+  object-fit: cover;
+}
+.welcome-to-assured {
+  position: absolute;
+  top: 45px;
+  left: 145px;
+  font-size: 18px;
+  letter-spacing: 0.08em;
+  line-height: 1px;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  width: 559px;
+  height: 32px;
+}
+.agrmmmarket-2-icon {
+  position: absolute;
+  top: 13px;
+  left: 101px;
+  width: 0;
+  height: 0;
+  object-fit: cover;
+}
+.agrimarket-brings-together {
+  position: absolute;
+  top: 185.6px;
+  left: 144px;
+  font-size: var(--font-size-base);
+  line-height: 118.4%;
+  text-transform: uppercase;
+  font-weight: 600;
+  display: inline-block;
+  width: 478px;
+  height: 96px;
+}
+.fill-button-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 507.6px;
+  left: 379px;
+  width: 172px;
+  height: 56px;
+}
+.section-one {
+  position: absolute;
+  top: 77.4px;
+  left: 0;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 1440px;
+  height: 744px;
+}
+.iconsaxlinearsearchnormal1,
+.iconsaxlinearshoppingcart {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.iconsaxlinearshoppingcart {
+  top: 0;
+  left: 48px;
+}
+.carts {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  width: 72px;
+  height: 25px;
+}
+.iconsaxlinearcall {
+  width: 24px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.carts-and-button,
+.fill-button2 {
+  position: absolute;
+  top: 0;
+  height: 60px;
+}
+.fill-button2 {
+  left: 96px;
+  border-radius: var(--br-8xs);
+  background-color: var(--colors-green);
+  width: 180px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xs) var(--padding-base);
+  box-sizing: border-box;
+}
+.carts-and-button {
+  right: 0;
+  width: 276px;
+}
+.home {
+  position: relative;
+  font-weight: 500;
+  cursor: pointer;
+}
+.hovered-child {
+  width: 47px;
+  position: relative;
+  height: 5px;
+}
+.hovered {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+  color: var(--color-palet-nav-menu-hover);
+}
+.about {
+  position: relative;
+  font-weight: 500;
+}
+.logo,
+.nav-menu {
+  position: absolute;
+}
+.nav-menu {
+  top: calc(50% - 16.6px);
+  left: calc(50% - 188px);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-29xl);
+}
+.logo {
+  top: 8px;
+  left: 59px;
+  width: 109.5px;
+  height: 70px;
+}
+.plant-1-icon {
+  width: 32px;
+  position: relative;
+  height: 32px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.ecobazar {
+  position: relative;
+  letter-spacing: -0.03em;
+  line-height: 38px;
+  font-weight: 500;
+}
+.logo1 {
+  position: absolute;
+  top: 2.7px;
+  left: -60px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  font-size: var(--m3-headline-large-size);
+  color: var(--gren-gray-scale-900);
+}
+.container {
+  position: absolute;
+  width: calc(100% - 274px);
+  top: 0;
+  right: 122px;
+  left: 152px;
+  height: 42.2px;
+  font-size: var(--font-size-base);
+  color: var(--color-palet-paragraph-color);
+}
+.navbar {
+  width: 1440px;
+  position: relative;
+  height: 821.4px;
+  z-index: 0;
+}
+.icon-whatsapp {
+  width: 0.56%;
+  position: absolute;
+  margin: 0 !important;
+  height: 1.32%;
+  top: 1.41%;
+  right: 89.59%;
+  bottom: 97.27%;
+  left: 9.85%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.landing-page {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-palet-pure-white);
+  height: 820px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  text-align: left;
+  font-size: 86px;
+  color: var(--color-palet-pure-white);
+  font-family: var(--font-poppins);
+}

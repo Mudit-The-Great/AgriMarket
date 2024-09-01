@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./index.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Dosis:wght@600&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <main class="landing-page">
+      <div class="navbar">
+        <div class="section-one">
+          <img
+            class="main-slider-1-1-1-icon"
+            alt=""
+            src="./public/mainslider11-1@2x.png"
+            data-scroll-to="mainSlider111Image"
+          />
+
+          <div class="main-contents">
+            <div class="agrimarket">Agrimarket</div>
+          </div>
+          <img class="section-one-child" alt="" src="./public/group-1.svg" />
+
+          <button class="fill-button-wrapper" id="frameButton">
+            <div class="fill-button">
+              <div class="farmer">FARMER</div>
+            </div>
+          </button>
+          <img
+            class="agrmmmarket-1-icon"
+            alt=""
+            src="./public/agrmmmarket-1@2x.png"
+          />
+
+          <div class="welcome-to-assured">
+            WELCOME TO ASSURED CONTRACT FARMING SYSTEM
+          </div>
+          <img
+            class="agrmmmarket-2-icon"
+            alt=""
+            src="./public/agrmmmarket-2@2x.png"
+          />
+
+          <div class="agrimarket-brings-together">
+            AgriMarket brings together farmers and wholesale buyers in one
+            platform to improve efficiency and transparency.
+          </div>
+          <button class="fill-button-container" id="frameButton1">
+            <div class="fill-button">
+              <div class="farmer">CONTRACT BUYER</div>
+            </div>
+          </button>
+        </div>
+        <div class="container">
+          <div class="carts-and-button">
+            <div class="carts">
+              <img
+                class="iconsaxlinearsearchnormal1"
+                alt=""
+                src="./public/iconsaxlinearsearchnormal1.svg"
+              />
+
+              <div class="iconsaxlinearshoppingcart"></div>
+            </div>
+            <div class="fill-button2">
+              <img
+                class="iconsaxlinearcall"
+                alt=""
+                src="./public/iconsaxlinearcall.svg"
+              />
+            </div>
+          </div>
+          <div class="nav-menu">
+            <div class="hovered">
+              <div class="home" id="homeText">Home</div>
+              <img class="hovered-child" alt="" src="./public/vector-2.svg" />
+            </div>
+            <div class="about">About</div>
+            <div class="about">Projects</div>
+          </div>
+          <div class="logo"></div>
+          <div class="logo1">
+            <img class="plant-1-icon" alt="" src="./public/plant-1.svg" />
+
+            <div class="ecobazar">AgriMarket</div>
+          </div>
+        </div>
+      </div>
+      <img class="icon-whatsapp" alt="" src="./public/-icon-whatsapp@2x.png" />
+    </main>
+
+    <script>
+      var frameButton = document.getElementById("frameButton");
+      if (frameButton) {
+        frameButton.addEventListener("click", function (e) {
+          window.location.href = "./sign-up.html";
+        });
+      }
+
+      var frameButton1 = document.getElementById("frameButton1");
+      if (frameButton1) {
+        frameButton1.addEventListener("click", function (e) {
+          window.location.href = "./sign-up1.html";
+        });
+      }
+
+      var homeText = document.getElementById("homeText");
+      if (homeText) {
+        homeText.addEventListener("click", function () {
+          var anchor = document.querySelector(
+            "[data-scroll-to='mainSlider111Image']"
+          );
+          if (anchor) {
+            anchor.scrollIntoView({ block: "start", behavior: "smooth" });
+          }
+        });
+      }
+    </script>
+  </body>
+</html>
